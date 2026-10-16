@@ -1,0 +1,6 @@
+{
+  "name": "Detetive WIT - Agência de Investigação Tecnológica",
+  "description": "Escape Room educativo interativo para alunos do 2º ano do Ensino Fundamental explorarem lógica, sequências, programação e investigação digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
